@@ -159,7 +159,7 @@ public class  MainActivity extends Activity
 //      bundle.putString(tag, query);
 //      itemFragment.setArguments(bundle);
 
-         // newly added tag won't show up in list view
+         // newly added tag won't show up in list view   
       if (!tags.contains(tag))
       {
 
